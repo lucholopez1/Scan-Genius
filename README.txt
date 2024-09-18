@@ -18,9 +18,13 @@ Generación de gráficos: Permite visualizar los productos en gráficos de barra
 
 # Requisitos
 Python 3.x
+
 Librerías necesarias:
+
 pandas
+
 tkinter
+
 matplotlib
 
 # Interfaz:
